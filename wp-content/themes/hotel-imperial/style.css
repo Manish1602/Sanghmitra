@@ -1,0 +1,188 @@
+/*
+Theme Name: Hotel Imperial
+Author: britetechs
+Author URI: http://britetechs.com
+Created by: britetechs
+Description: Hotel Imperial is a simple and clean, fast to open and user friendly free hotel WordPress theme. This theme compatible for corporate, portfolio, creative agencies, tours & travel agencies, personal blog, photography, cuisines, recipes, bakery items and any other business websites. It supports all popular browser like Mozilla Firefox, Google Chrome, Safari and IE. Demo link: https://britetechs.com/wpthemes/?theme=hotelone-pro
+Template: hotelone
+Version: 1.2.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: sticky-post, one-column, two-columns, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, theme-options, threaded-comments, rtl-language-support, full-width-template, custom-logo, blog, e-commerce, portfolio
+Text Domain: hotel-imperial
+*/
+
+.gallery-grid .g-item {
+  padding: 10px;
+  float: left;
+}
+
+.all-gallery {
+  text-align: center;
+  margin-top: 40px;
+  display: block;
+}
+
+.g-zoom-in .g-item {
+  display: block;
+  overflow: hidden;
+}
+.g-zoom-in .g-item .inner-content {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.g-zoom-in .g-item img {
+  display: block;
+  overflow: hidden;
+  -webkit-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+}
+.g-zoom-in .g-item:hover img {
+  -ms-transform: scale(1.5, 1.5);
+  /* IE 9 */
+  -webkit-transform: scale(1.5, 1.5);
+  /* Safari */
+  transform: scale(1.5, 1.5);
+}
+
+.g-layout-full-width.container {
+  width: 100%;
+  max-width: none;
+  padding: 0px;
+}
+
+@media screen and (min-width: 720px) {
+  .g-col-1 .g-item {
+    width: 100%;
+  }
+  .g-col-1 .g-item:nth-child(1n+1) {
+    clear: left;
+  }
+
+  .g-col-2 .g-item {
+    width: 50%;
+  }
+  .g-col-2 .g-item:nth-child(2n+1) {
+    clear: left;
+  }
+
+  .g-col-3 .g-item {
+    width: 33.3333333333%;
+  }
+  .g-col-3 .g-item:nth-child(3n+1) {
+    clear: left;
+  }
+
+  .g-col-4 .g-item {
+    width: 25%;
+  }
+  .g-col-4 .g-item:nth-child(4n+1) {
+    clear: left;
+  }
+
+  .g-col-5 .g-item {
+    width: 20%;
+  }
+  .g-col-5 .g-item:nth-child(5n+1) {
+    clear: left;
+  }
+
+  .g-col-6 .g-item {
+    width: 16.6666666667%;
+  }
+  .g-col-6 .g-item:nth-child(6n+1) {
+    clear: left;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 720px) {
+  .g-col-1 .g-item {
+    width: 100%;
+  }
+  .g-col-1 .g-item:nth-child(1n+1) {
+    clear: left;
+  }
+
+  .g-col-2 .g-item {
+    width: 50%;
+  }
+  .g-col-2 .g-item:nth-child(2n+1) {
+    clear: left;
+  }
+
+  .g-col-3 .g-item {
+    width: 33.3333333333%;
+  }
+  .g-col-3 .g-item:nth-child(3n+1) {
+    clear: left;
+  }
+
+  .g-col-4 .g-item {
+    width: 25%;
+  }
+  .g-col-4 .g-item:nth-child(4n+1) {
+    clear: left;
+  }
+
+  .g-col-5 .g-item {
+    width: 20%;
+  }
+  .g-col-5 .g-item:nth-child(5n+1) {
+    clear: left;
+  }
+
+  .g-col-6 .g-item {
+    width: 16.6666666667%;
+  }
+  .g-col-6 .g-item:nth-child(6n+1) {
+    clear: left;
+  }
+}
+@media screen and (max-width: 576px) {
+  .g-col-1 .g-item {
+    width: 100%;
+  }
+  .g-col-1 .g-item:nth-child(1n+1) {
+    clear: left;
+  }
+
+  .g-col-2 .g-item {
+    width: 50%;
+  }
+  .g-col-2 .g-item:nth-child(2n+1) {
+    clear: left;
+  }
+
+  .g-col-3 .g-item {
+    width: 33.3333333333%;
+  }
+  .g-col-3 .g-item:nth-child(3n+1) {
+    clear: left;
+  }
+
+  .g-col-4 .g-item {
+    width: 25%;
+  }
+  .g-col-4 .g-item:nth-child(4n+1) {
+    clear: left;
+  }
+
+  .g-col-5 .g-item {
+    width: 20%;
+  }
+  .g-col-5 .g-item:nth-child(5n+1) {
+    clear: left;
+  }
+
+  .g-col-6 .g-item {
+    width: 16.6666666667%;
+  }
+  .g-col-6 .g-item:nth-child(6n+1) {
+    clear: left;
+  }
+}
+
+.card-room .more-link{
+  display: none;
+}

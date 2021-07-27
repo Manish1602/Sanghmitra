@@ -1,0 +1,102 @@
+<wpml-config>
+	<admin-texts>
+	  <key name="current_theme"/>
+	  <key name="theme_mods_hotelone">
+	  	<key name="footer_copyright_text"/>
+	  	<key name="hotelone_slider_bigtitle"/>
+	  	<key name="hotelone_services_title"/>
+	  	<key name="hotelone_services_subtitle"/>
+	  	<key name="hotelone_slider_subtitle"/>
+	  	<key name="hotelone_pbtn_text"/>
+	  	<key name="hotelone_pbtn_link"/>
+	  	<key name="hotelone_sbtn_text"/>
+	  	<key name="hotelone_sbtn_link"/>
+	  	<key name="hotelone_service_more_text"/>
+	  	<key name="hotelone_services_mbtn_text"/>
+	  	<key name="hotelone_services_mbtn_url"/>
+	  	<key name="hotelone_videolightbox_title"/>
+	  	<key name="hotelone_room_title"/>
+	  	<key name="hotelone_room_subtitle"/>
+	  	<key name="hotelone_room_more_text"/>
+	  	<key name="hotelone_room_more_link"/>
+	  	<key name="hotelone_testimonial_title"/>
+	  	<key name="hotelone_testimonial_subtitle"/>
+	  	<key name="hotelone_news_title"/>
+	  	<key name="hotelone_news_subtitle"/>
+	  	<key name="hotelone_news_more_text"/>
+	  	<key name="hotelone_news_more_link"/>
+	  	<key name="hotelone_counter_title"/>
+	  	<key name="hotelone_counter_subtitle"/>
+	  	<key name="hotelone_team_title"/>
+	  	<key name="hotelone_team_subtitle"/>
+	  	<key name="teamButtonTitle"/>
+	  	<key name="teamButtonUrl"/>
+	  	<key name="hotelone_calltoaction_title"/>
+	  	<key name="hotelone_calltoaction_subtitle"/>
+	  	<key name="hotelone_calltoaction_btn_text"/>
+	  	<key name="hotelone_calltoaction_btn_URL"/>
+	  	<key name="hotelone_client_title"/>
+	  	<key name="hotelone_client_subtitle"/>
+	  	<key name="aboutpage_title"/>
+	  	<key name="aboutpage_callout_title"/>
+	  	<key name="aboutpage_callout_subtitle"/>
+	  	<key name="aboutpage_callout_butttontext"/>
+	  	<key name="aboutpage_callout_butttonurl"/>
+	  	<key name="servicepage_callout_title"/>
+	  	<key name="servicepage_callout_subtitle"/>
+	  	<key name="servicepage_callout_butttontext"/>
+	  	<key name="contactpage_title"/>
+	  	<key name="contactpage_form_title"/>
+	  	<key name="contactpage_info_title"/>
+	  	<key name="contactpage_info_subtitle"/>
+	  	<key name="contactpage_form_shortcode"/>
+	  	<key name="hotelone_slider_images">
+	  		<key name="*">
+	  			<key name="large_text" />
+	  			<key name="small_text" />
+	  			<key name="buttontext1" />
+	  			<key name="buttonlink1" />
+	  			<key name="buttontext2" />
+	  			<key name="buttonlink2" />
+	  		</key>
+	  	</key>
+	  	<key name="hotelone_services">
+	  		<key name="*">
+	  			<key name="title" />
+	  			<key name="desc" />
+	  			<key name="button_text" />
+	  			<key name="button_url" />
+	  		</key>
+	  	</key>
+	  	<key name="hotelone_testimonial_items">
+	  		<key name="*">
+	  			<key name="name" />
+	  			<key name="review" />
+	  			<key name="designation" />
+	  			<key name="link" />
+	  		</key>
+	  	</key>
+	  	<key name="hotelone_counter_boxes">
+	  		<key name="*">
+	  			<key name="title" />
+	  			<key name="number" />
+	  			<key name="unit_before" />
+	  			<key name="unit_after" />
+	  		</key>
+	  	</key>
+	  	<key name="hotelone_team_members">
+	  		<key name="*">
+	  			<key name="name" />
+	  			<key name="designation" />
+	  			<key name="link" />
+	  		</key>
+	  	</key>
+	  	<key name="hotelone_client_members">
+	  		<key name="*">
+	  			<key name="title" />
+	  			<key name="link" />
+	  		</key>
+	  	</key>
+	  </key>	  
+	</admin-texts>
+</wpml-config>
