@@ -1,0 +1,33 @@
+[28-Jul-2021 06:21:53 UTC] Sync process for Gutenberg Blocks has started.
+[28-Jul-2021 06:21:53 UTC] CATEGORY:Importing categories..
+[28-Jul-2021 06:21:53 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[28-Jul-2021 06:21:53 UTC] CATEGORY:Completed category import.
+[28-Jul-2021 06:21:53 UTC] BLOCK: Getting Total Blocks
+[28-Jul-2021 06:21:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg
+[28-Jul-2021 06:21:53 UTC] BLOCK: Requests count 3
+[28-Jul-2021 06:21:53 UTC] BLOCK: Importing request 1 ..
+[28-Jul-2021 06:21:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1
+[28-Jul-2021 06:21:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[28-Jul-2021 06:21:53 UTC] BLOCK: Completed request 1
+[28-Jul-2021 06:21:53 UTC] BLOCK: Importing request 2 ..
+[28-Jul-2021 06:21:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2
+[28-Jul-2021 06:21:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[28-Jul-2021 06:21:53 UTC] BLOCK: Completed request 2
+[28-Jul-2021 06:21:53 UTC] BLOCK: Importing request 3 ..
+[28-Jul-2021 06:21:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3
+[28-Jul-2021 06:21:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[28-Jul-2021 06:21:54 UTC] BLOCK: Completed request 3
+[28-Jul-2021 06:21:54 UTC] SITE: Getting Total Sites
+[28-Jul-2021 06:21:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[28-Jul-2021 06:21:54 UTC] SITE: Request count 1
+[28-Jul-2021 06:21:54 UTC] SITE: Importing request 1 ..
+[28-Jul-2021 06:21:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[28-Jul-2021 06:21:54 UTC] SITE: Storing in option ast-block-templates-sites-1
+[28-Jul-2021 06:21:54 UTC] SITE: Completed request 1
+[28-Jul-2021 06:21:54 UTC] Sync process for Gutenberg Blocks is done.
+[28-Jul-2021 10:48:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
+[28-Jul-2021 10:49:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
+[28-Jul-2021 10:49:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
+[28-Jul-2021 10:51:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
+[28-Jul-2021 10:54:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
+[28-Jul-2021 11:49:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/enlignjy/sm.enlighto.in/wp-includes/class-wp-image-editor-imagick.php on line 386
